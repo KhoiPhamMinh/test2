@@ -1,0 +1,1 @@
+<a class="right" href="https://boardgame.vn/"target="_blank"></a>
